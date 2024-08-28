@@ -4,19 +4,19 @@
 <img src="./Images/bootlogo.png" alight-itens="center">
 </div>
 
-[![GitHub contributors](https://img.shields.io/github/contributors/CostelaCNX/cnx-updater)](https://github.com/CostelaCNX/cnx-updater/graphs/contributors)
-[![GitHub All Releases](https://img.shields.io/github/downloads/CostelaCNX/cnx-updater/total)](https://github.com/CostelaCNX/cnx-updater/releases)
-[![Latest release](https://img.shields.io/github/v/release/CostelaCNX/cnx-updater)](https://github.com/CostelaCNX/cnx-updater/releases/latest)
-[![GitHub issues](https://img.shields.io/github/issues/CostelaCNX/cnx-updater)](https://github.com/CostelaCNX/cnx-updater/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/CostelaCNX/CNX-Updater)](https://github.com/CostelaCNX/CNX-Updater/graphs/contributors)
+[![GitHub All Releases](https://img.shields.io/github/downloads/CostelaCNX/CNX-Updater/total)](https://github.com/CostelaCNX/CNX-Updater/releases)
+[![Latest release](https://img.shields.io/github/v/release/CostelaCNX/CNX-Updater)](https://github.com/CostelaCNX/CNX-Updater/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues/CostelaCNX/CNX-Updater)](https://github.com/CostelaCNX/CNX-Updater/issues)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Um homebrew de Nintendo Switch, baseado no homebrew [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater/), para fazer o download e atualizar firmwares e o custom firmware [CNX](https://github.com/CostelaCNX/cnx-updater/releases).
+Um homebrew de Nintendo Switch, baseado no homebrew [AIO-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater/), para fazer o download e atualizar firmwares e o custom firmware [CNX](https://github.com/CostelaCNX/CNX-Updater/releases).
 
 CNX Pack é um pacote all-in-one (tudo em um) de custom firmware que inclui o Atmosphère, sigpatches, hekate, nyx e vários outros homebrews.
 
 Este homebrew suporta Atmosphère, ReiNX e SXOS, e funciona em consoles não corrigidos (`Erista`) and corrigidos (`V2/Mariko`).
 
-## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/CostelaCNX/cnx-updater/releases/latest) 
+## **[FAÇA O DOWNLOAD POR AQUI!](https://github.com/CostelaCNX/CNX-Updater/releases/latest) 
 
 ## Como instalar?
 Baixe o arquivo `cnx-updater.zip` do link acima e o extraia na `raiz` do microSD.
