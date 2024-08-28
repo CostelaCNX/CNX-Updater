@@ -1,0 +1,108 @@
+{
+  "about": {
+    "title": "{} ({})",
+    "copyright": "O {} ({}) usa a licença GPL-3.0\n© {} {}",
+    "disclaimers": "\u25c6 {} {} não detém nenhum direito de cópia sobre nenhum arquivo baixado por este homebrew e todo o crédito pertence aos seus respectivos proprietários.\n\u25c6 Os links serão atualizados sempre que um novo pacote estiver disponível ou for necessário. Se um link estiver quebrado, informe no grupo de Facebook '{}'.\n\nObrigado!"
+  },
+  "credits": {
+    "title_main": "O {} ({}) não seria possível sem a ajuda e ideias das seguintes pessoas/grupos:",
+    "title_credits": "Créditos",
+    "credits_text": "\u2605 'HamletDuFromage' pelo brilhante homebew AIO-Switch-Updater.\n\u2605 'natinusala' pela biblioteca Borealis.\n\u2605 'Team Neptune' pelo código RCM usado.\n\u2605 'coldmvm' pelo desenvolvimento do {}.\n\u2605 'CostelaBR' pela ideia da função de traduções e os links usados no homebrew.",
+    "title_beta": "Beta testers (ordem alfebética)",
+    "beta_text": "\u2605 'Felipe'\n\u2605 'Lindomar'\n\u2605 'Sidnei'"
+  },
+  "common": {
+    "download": "Arquivo a ser baixado:\n",
+    "downloading": "Baixando…",
+    "deleting": "Removendo…",
+    "from": "\n\nDe:\n",
+    "extracting": "Extraindo…",
+    "applet_mode_not_supported": "Esta função não está disponível no modo applet. Por favor, inicie o {} através do redirecionados de títulos para acessa-la.",
+    "back": "Voltar",
+    "continue": "Continuar",
+    "remove_continue": "Remover e continuar",
+    "yes": "Sim",
+    "no": "Não",
+    "all_done": "Finalizado!",
+    "app_update_done": "Atualização do homebrew concluída!\nPor favor, aguarde até que o homebrew seja reiniciado.",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "updating": "Atualizando o homebrew",
+    "update_label": "Versão a ser instalada: v{}\n\n{}",
+    "update_button": "Clique aqui para atualizar o homebrew",
+    "ok": "Ok"
+  },
+  "changelog": {
+    "changelog": "Alterações",
+    "known_issues": "Problemas conhecidos"
+  },
+  "main": {
+    "getting": "Baixando {}",
+    "firmware_text": "Todos os firmwares estão disponíveis em 'https://darthsternie.net/switch-firmwares/'.\nDepois de baixado ele será extraído para a pasta '/firmware' e você poderá, então, instalá-lo usando o homebrew 'Daybreak'.\nFirmware atual no seu Switch: {}\n\nAbaixo estão listadas o(s) último(s) {} firmwar(es):",
+    "translations_text": "As traduções são feitas por membros da cena e tem a finalidade de distribuir acessibilidade linguística aos jogos.\n\n\u25c6 Algumas traduções precisam de passos específicos para que funcionem. Para maiores detalhes consulte os sites dos criadores das traduções:\nhttps://www.jumpmanclubbrasil.com.br/\nhttps://traducoespkg.tumblr.com/\nhttps://nintendonxbr.blogspot.com/\n\nAbaixo estão listadas algumas traduções disponíveis aqui para download.",
+    "modifications_text": "As modificações de jogos, também conhecidas por MODS, são feitas por membros da cena e tem a diversas finalidades. Vão desde melhorias gráficas até trapaças (cheats) ou trainers (uma espécie de trapaça adicionada quando o jogo não vem com trapaça 'de fábrica'.\n\n\u25c6 Algumas modificaçõs precisam de passos específicos para que funcionem. Para maiores detalhes pesquise online sobre tais modificações e procure se inteirar sobre a mesma.\n\nAbaixo estão listadas algumas modificações disponíveis aqui para download.",
+    "firmware": "firmware",
+    "not_found": "não encontrado",
+    "links_not_found": "Não foi possível encontrar o link de download! Seu Switch está conectado à Internet?\nSe o problema persistir, abra um 'issue' no GitHub.",
+    "new_update": "Nova atualização",
+    "about": "Informações",
+    "credits": "Créditos",
+    "update_ams": "Baixar Atmosphère",
+    "download_firmware": "Baixar firmwares",
+    "download_translations": "Baixar traduções",
+    "download_mods": "Baixar modificações",
+    "tools": "Ferramentas",
+    "launch_warning": "Por favor, preste atenção aos seguintes pontos antes de usar este homebrew:\n\n\u25c6 Leia e entenda sobre como manualmente atualizar seu Switch antes. Isto lhe ajudará a entender melhor este homebrew e você saberá o que fazer caso algo saia errado.\n\u25c6 Para evitar o risco de corrompimento de dados, o uso deste homebrew em um microSD formatado em exFAT é FORTEMENTE desaconselhado.\n\n\u25c6 As últimas informações sobre novas funções inseridas e/ou modificadas estão disponíveis no menu Ferramentas→Alterações.\n\n\u2605 Ao pressionar o botão \uE0E2 um popup de AJUDA aparecerá com explicações de como usar este homebrew.\n\nEsta tela não aparecerá novamente.",
+    "beta_warning": "ESTA É UMA VERSÃO BETA!\n\nPor favor tenha ciência de que este homebrew ainda está passando pelos testes finais antes da versão oficial!\nO homebrew e suas novas funções descritas no changelog são disponibilizadas 'como estão' e {} {} não dá nenhuma garantia expressa ou implícita sobre sua usabilidade.\n{} {} não se responsabiliza por nenhuma perda de dados direta ou indireta sofrida como resultado do uso deste homebrew.\n\nObrigado!",
+    "footer_text" : "{} - {} - {}Gb disponíveis",
+    "footer_text_not_connected" : " - Offline",
+    "theme_warning": "AVISO IMPORTANTE!\nParece que você tem um tema customizado instalado e isto, na grande maioria das vezes, faz com que o sistema falhe ao iniciar após a atualização!\n\n\uE150 Por favor, considere remover o tema e as pastas abaixo, se existirem, antes de atualizar.\n{}0100000000001000\n{}0100000000001007\n{}0100000000001013\n\nEscolha a opção desejada abaixo.",
+    "download_time_warning": "AVISO!\n\nO download pode levar um tempo considerável dependendo do tamanho do arquivo e da velocidade da sua conexão!\nApós o arquivo ser baixado ele será descompactado no seu console e isso também levará um tempo. Se seu console aparentar estar travado não o desligue pois isto é normal!\n\nSeja paciente e espere o processo terminar!",
+    "translation_exists_warning": "AVISO!\n\nA tradução que você escolheu já está instalada no seu Switch!\nAo clicar no botão abaixo você irá removê-la. Caso esta não seja sua intenção pressione o botão 'B' para escolher uma nova tradução\n\nVocê deseja remover a tradução selecionada?",
+    "modification_exists_warning": "AVISO!\n\nA modificação que você escolheu já está instalada no seu Switch!\nAo clicar no botão abaixo você irá removê-la. Caso esta não seja sua intenção pressione o botão 'B' para escolher uma nova modificação\n\nVocê deseja remover a modificação selecionada?",
+    "no_items_to_display": "Não há itens a serem exibidos no momento!",
+    "help": "Ajuda",
+    "help_how_to_use": "Como usar?",
+    "help_how_to_use_full": "Como usar o homebrew?",
+    "help_how_to_use_text": "\nComo usar este homebrew?\n\nUsar este homebrew é muito fácil!\n\n\u25c6 Navegue pelas abas horizontais na parte da esquerda com o direcional D-PAD (\uE0AD, \uE0AC, \uE0AE e \uE0AB) ou os analógicos da esquerda (\uE0C1) ou direita (\uE0C2) e selecione com o botão \uE0E0.\n\n\u25c6 Ao entrar em um opção, para voltar à opção anterior ou cancelar/fechar uma opção/tela, pressione o botão \uE0E1.\n\n\u25c6 Para sair do homebrew pressione o botão \uE0EF.",
+    "help_order": "Ordem das atualizações",
+    "help_order_text": "\nQual ordem devo seguir para atualizar o console?\n\n\uE150 Antes de mais nada, nunca atualize o console sem ter atualizado o Atmosphère (AMS) antes, a não ser que ele suporte a versão do console a ser instalada!\nPor exemplo o AMS 1.3.2 suporta da versão 14.1.1 até a versão 1.0.0, mas pode não funcionar com a próxima.\n\n\u25c6 Primeiro navegue até a aba '{}' e faça o download do '{}' ou 'GNX' (dependendo de qual você usa) e depois navegue até a aba '{}' para baixar Firmware do console.\n\nSeja paciente e dê ao homebrew o tempo necessário para que ele conclua a instalção.",
+    "help_clean_inst": "Instalação limpa",
+    "help_clean_inst_text": "\nComo fazer uma instalação limpa?\n\n\uE150 Uma instalação limpa irá remover tudo do seu microSD menos os arquivos e pastas abaixo!\n\n* Para executar uma instalação limpa selecione o pacote Atmosphère de sua preferência, escolha 'Sim', confirme novamente com 'Sim' e espere o processo terminar!\n* Escolhendo 'Não' executará a instalação normal que poderá apagar os itens marcados com \uE150.\n\nO que a instalação limpa não remove:\n\u2605 emuNAND (jogos, saves e usuários) \uE150 pasta de backup \uE150 backup dos saves (JKSV, Checkpoint e EdiZon) \u2605 pasta do retroarch e ROMs \uE150 arquivos/temas do Tinfoil"
+  },
+  "tools": {
+    "batch_copy_not_found": "Os segintes arquivos não foram encontrados e não puderam ser copiados:\n",
+    "update_app": "Atualizar o homebrew (v{})",
+    "dl_app": "Baixar:\n{} (v{})",
+    "internet_settings": "Editar configurações de internet",
+    "browser": "Navegador web",
+    "clean_up": "Limpar arquivos baixados",
+    "motd_label": "Abrir último MOTD (quadro de avisos)"
+  },
+  "utils": {
+    "not_an_archive": "O arquivo baixado não é um arquivo zip. Isto provavelmente aconteceu devido a um link quebrado. Se o problema persistir depois de 30 minutos, por favor, abra um 'issue' no Github.",
+    "overwrite_inis": "Você deseja sobrescrever os arquivos de configuração .ini existentes?",
+    "delete_sysmodules_flags": "Você gostaria de apagar todos os sinalizadores de início dos módulos de sistema (boo2.flag)? Isto desligará todos os módulos de sistema para prevenir erros se você tem algum módulo de sistema instalado que não suporte o último Atmosphère.",
+    "clean_install": "Você gostaria de executar uma instalação limpa?\n\n\uE150 Este passo é opcional! Se você tem dúvidas sobre o que ele faz escolha 'Não'.\n\n\uE150 Uma instalação limpa irá apagar TUDO do microSD MENOS o seguinte: emuNAND (jogos, saves e usuários), pasta de backup, backup dos saves (JKSV, Checkpoint e EdiZon), pasta do retroarch e ROMs, e arquivos/temas do Tinfoil.\n\nVocê PERDERÁ traduções e/ou modificações de jogos mas NÃO os jogos.\nEsta opção só é recomendada quando você quiser começar com uma instalação 100% limpa.",
+    "clean_install_confirm": "Você escolheu executar uma INSTALAÇÃO LIMPA!\n\n\uE150 Uma instalação limpa irá apagar TUDO do microSD MENOS o seguinte: emuNAND (jogos, saves e usuários), pasta de backup, backup dos saves (JKSV, Checkpoint e EdiZon), pasta do retroarch e ROMs, e arquivos/temas do Tinfoil.\n\nVocê PERDERÁ traduções e/ou modificações de jogos mas NÃO os jogos.\n\nVocê tem certeza que quer executar uma instalação limpa?"
+  },
+  "ams_update": {
+    "pack_label": "{} é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère e inclui tudo de mais atual para seu Switch. {} {} usa este pacote como seu oficial.",
+    "current_ams": "Atmosphère atual: {}",
+    "erista_rev": "Revisão: Erista",
+    "mariko_rev": "Revisão: Mariko",
+    "goma_label": "Pacote Atmosphère opcional alternativo:\nGNX, também conhecido como GomaNX, assim como o CNX, também é um pacote all-in-one (tudo em um) baseado no custom firmware Atmosphère feito pelo Goma.",
+    "reboot_rcm": "O Switch agora irá reiniciar em um payload especial para concluir a instalação."
+  },
+  "firmware": {
+    "launch_daybreak": "Você gostaria de iniciar o Daybreak para instalar o firmware baixado?"
+  },
+  "net": {
+    "title": "Configurações da internet"
+  },
+  "errors": {
+    "mariko_payload_missing": "Para atualizar o Atmosphère em Switches corrigidos o payload precisa ter o nome de 'payload.bin' e deve estar na raiz do seu microSD.",
+    "insufficient_storage": "Não há espaço suficiente no seu microSD para executar esta operação.",
+    "error_message": "{}\nPor favor, tente novamente em alguns minutos. Se o problema persistir, por favor, abra um 'issue' no Github."
+  }
+}
